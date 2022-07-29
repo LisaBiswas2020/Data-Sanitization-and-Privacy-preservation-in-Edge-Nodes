@@ -1,0 +1,29 @@
+,Patient Id ,Name,Age,Address,Adhaar card number,Date of Admission,Insurance details,Policy number ,Total Bill,Insurance claimed,Net paid in INR
+1,00003560-915,Mitchel sagar,24,#####,*****,FEB 6 2022,sbi insurance,KU9887651281,2300,NO ,2345
+2,00003560-911,kevin Emanuel ,32,#####,*****,Dec 24 2021,kotak ,CU 0897826,4490,NO ,3459
+3,00003560-912,Rick price,23,#####,*****,Dec 22 2021,life med,HU -293-2832073,8945,YES ,1235
+4,00003560-913,Visha long ,45,#####,*****,Nov 8 2021,india first ,hyd 0232973826,4356,NO ,2345
+5,00003560-914,Peter White ,43,#####,*****,Nov 7 2021,Birla Sun life,INdi2838297329,9044,NO ,4321
+6,00003560-916,Vihaan Visht ,18,#####,*****,Sept 28 2021,Aviva,kar 0e-2930280,8076,YES ,3456
+7,00003560-917,Reyansh Singh,22,#####,*****,Feb 5 2022,IDBI federal,KOLKAATA 083797,7987,YES ,1234
+8,00003560-927,Sandra Yang,35,#####,*****,JAN 10 2022,Reliance,VIZAG- e27375261,6098,YES ,3114
+9,00003560-919,Mia Sharma,38,#####,*****,Jan 09 2022,LIC india,NI -932039228,5689,YES ,4321
+10,00003560-920,Mia Sharma,27,#####,*****,Sept 18 2021,PNB met life,JK - i297328682d,4983,NO ,3210
+11,00003560-921,Ajit Motala,41,#####,*****,Dec 18 2021,Star Union ,DEL 023923,3298,NO ,1200
+12,00003560-922,Anila Suruchi,38,#####,*****,Feb 5 2022,Dai ichi life,TN -8923263826,30987,YES ,5690
+13,00003560-923,Rohana Srihari,34,#####,*****,Jan 27 2022,exide life,q79172108201,12098,NO ,2300
+14,00003560-924,Savitri Himanshu,31,#####,*****,FEB 6 2022,Tokio ,AA808e92e826,11098,NO ,4490
+15,00003560-925,Rajan Virani,29,#####,*****,Dec 24 2021,Bajaj,1367927310-,34876,YES ,8945
+16,00003560-926,Priya Raviraj,28,#####,*****,Dec 22 2021,HDFC edgar,8.38298E+11,43256,YES ,4356
+17,00003560-927,Shanta Raja,22,#####,*****,Nov 8 2021,Royal Sundaram,TN2083108301821,87653,YES ,9044
+18,00003560-928,Sabeena F,30,#####,*****,Nov 7 2021,SBI general,KERALA9e28e0797,34567,YES ,8076
+19,00003560-929,Nilesh Mallya,33,#####,*****,Sept 28 2021,Sriram,CU 0897826,76543,NO ,7987
+20,00003560-930,Mehul Choksi,32,#####,*****,Feb 5 2022,IFFICO tokio,HU -293-2832073,30987,NO ,6098
+21,00003560-931,Nirab Baidya,25,#####,*****,JAN 10 2022,TATA AIG,hyd 0232973826,12098,YES ,5689
+22,00003560-932,Sunny Kalara,22,#####,*****,Jan 09 2022,ALLIANZ,INdi2838297329,11098,NO ,4983
+23,00003560-933,Jatin Mehta,25,#####,*****,Sept 18 2021,ICICI Lombard,347569709-09,34876,NO ,8099
+24,00003560-934,Vinay Mittal,41,#####,*****,Jan 27 2022,United India Insurance,e6586970-987,43256,YES ,6900
+25,00003560-928,Alaka Goyal,39,#####,*****,FEB 6 2022,PNB met life,75645353AA9-90786,8945,YES ,8945
+26,00003560-929,Ritesh Jain ,31,#####,*****,Dec 24 2021,exide life,4.65877E+12,4356,YES ,4356
+27,00003560-930,Saviya Saith,29,#####,*****,Dec 22 2021,LIC india,e57577980-07564,9044,No ,9044
+28,00003560-931,Nitin Chethan ,26,#####,*****,Nov 8 2021,Max life,989775534,8076,No ,8076
