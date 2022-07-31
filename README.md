@@ -1,11 +1,11 @@
-# Chat Application
+This script is used to communicate between the edge nodes and server and transfer file using masking and encrypted channel. 
 
-Multi group Chat Application using python sockets and Tkinter GUI
-
-![Screenshot from 2020-09-25 11-48-08](https://user-images.githubusercontent.com/53527166/94233555-b132f100-ff25-11ea-9de0-1a930b27be57.png)
-![Screenshot from 2020-09-25 11-50-27](https://user-images.githubusercontent.com/53527166/94233557-b2fcb480-ff25-11ea-9efc-d35128006685.png)
-
-# Functionalities
-* Create room / Join room using Room Id
-* Send messages within a room
-* Send file within a room
+#set up 
+Open a gmail account and in https://developers.google.com/oauthplayground/ authenticate the drive upload the files.
+![image](https://user-images.githubusercontent.com/71204623/182034276-5313b93e-90b2-49ff-9fdb-15693ec8bcdb.png)
+Once authentication token is recieved add the code to drive_store.py file,  now we will be able to upload the files in drive location.
+From base machine run the erver.py file using Anaconda promt and from your VM run client_GUI.py file.
+Now the the comminucation will be setup with the base machine and client machine. Here we are assuming that base machine is your server and VM machine is our edge node.
+![image](https://user-images.githubusercontent.com/71204623/182034499-ba8d7c85-2cb8-4aa8-b0c8-6ebd4bf423e8.png)
+We can send our file from edge nodes to server during upload it will be encrypted and masked.Once it reaches the destination location meesage will appear the fle transfer is complete. And later we check the drive to the uploaded file.
+![image](https://user-images.githubusercontent.com/71204623/182034571-219c2492-c002-4078-b967-0145bf65b6f9.png)
